@@ -1,2 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/sm8wnqpejnq96390?svg=true)](https://ci.appveyor.com/project/ahtimir/hw-4-unit)
+[![Build status](https://ci.appveyor.com/api/projects/status/c7dyr9mutvhux0vg?svg=true)](https://ci.appveyor.com/project/Andrey09123/ajs-unit)
+
 
